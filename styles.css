@@ -70,3 +70,47 @@ body {
     transform-origin: bottom center;
     animation: tick 1200ms ease-in-out infinite;
 }
+
+.drums {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    flex: .5; 
+    margin-left: -100px;
+    margin-bottom: 0px;
+    left: 100px; 
+    gap: 2px; 
+    color: #fff;
+    
+    
+}
+
+.Kick {
+    padding: 20px;
+    background-color: crimson; 
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+.Hihat {
+    padding: 20px;
+    background-color: crimson; 
+    border-radius: 5px;
+    text-align: center;
+} 
+
+.Snare {
+    padding: 20px;
+    background-color: crimson; 
+    border-radius: 5px;
+    text-align: center;
+}
+
+.MetronomeBox {
+    padding: 10px;
+    background-color: crimson; 
+    border-radius: 5px;
+    text-align: center;
+}
+
