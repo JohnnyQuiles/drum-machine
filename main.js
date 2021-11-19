@@ -56,7 +56,7 @@ function update() {
         if(kick.checked) {
             kick.play();  
         }
-    })  
+    })
 
     //HI HAT
     const hihat = document.querySelector('.Hihat');
